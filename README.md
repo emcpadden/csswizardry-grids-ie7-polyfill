@@ -8,7 +8,7 @@ More info about the box-sizing-polyfill plugin can be found at:
 
 [https://github.com/Schepp/box-sizing-polyfill](https://github.com/Schepp/box-sizing-polyfill)
 
-In order to get this to work in the CSSWizardyGrid you will need to modify the SASS code for the grid__item so that the display attribute uses an inline-block mixin to mbe able to approximate an inline-block display type in ie7.
+In order to get this to work in the CSSWizardyGrid you will need to modify the SASS code for the grid__item so that the display attribute uses an inline-block mixin to be able to approximate an inline-block display type in ie7.
 
 Use your own inline block mixin or you can use the one I usually use which is as follows:
 
